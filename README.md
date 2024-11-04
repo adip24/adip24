@@ -1,5 +1,5 @@
 ### Hi there, I'm Adip! 👋
-[![Codewars Badge](https://www.codewars.com/users/adip240499/badges/small)](https://www.codewars.com/users/adip240499)
+[![Codewars Badge](https://www.codewars.com/users/adip240499/badges/micro)](https://www.codewars.com/users/adip240499)
 
 
 🚀 **About Me**  
