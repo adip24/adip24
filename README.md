@@ -11,7 +11,7 @@ I'm a Software Developer with a focus on web development and creating impactful 
 
 - **Languages:** JavaScript, PHP, TypeScript, HTML, CSS  
 - **Frameworks:** Node.js (Express, Hapi), Laravel, Yii2  
-- **Tools:** Git, VS Code, Postman, Redis, RabbitMQ, SonarQube  
+- **Tools:** Git, VS Code, Postman, Redis, RabbitMQ, SonarQube, Cors, Joi, Zod, Jest, Eslint, Prettier
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 
 🤝 **Let’s Connect**  
