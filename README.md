@@ -1,4 +1,4 @@
-### Hi there, I'm Adip! 👋
+### Hi there, I'm Adip Safiudin! 👋
 [![Codewars Badge](https://www.codewars.com/users/adipsafiudin/badges/micro)](https://www.codewars.com/users/adipsafiudin)
 
 
