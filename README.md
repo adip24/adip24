@@ -1,4 +1,6 @@
 ### Hi there, I'm Adip! 👋
+[![Codewars Badge](https://www.codewars.com/users/adip240499/badges/small)](https://www.codewars.com/users/adip240499)
+
 
 🚀 **About Me**  
 I'm a Software Developer with a focus on web development and creating impactful digital experiences.
@@ -17,5 +19,3 @@ I'm a Software Developer with a focus on web development and creating impactful 
 🤝 **Let’s Connect**  
 I’m always excited to discuss new ideas and collaborate on innovative projects. Feel free to reach out anytime!
 
-
-[![Codewars Badge](https://www.codewars.com/users/adip240499/badges/small)](https://www.codewars.com/users/adip240499)
